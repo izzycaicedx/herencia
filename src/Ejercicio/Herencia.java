@@ -16,7 +16,7 @@ public class Herencia {
      */
     public static void main(String[] args) {
        
-        System.out.println("hola");
+        System.out.println("hola como estas");
 
 
 // TODO code application logic here
